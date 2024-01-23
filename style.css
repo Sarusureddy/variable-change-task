@@ -1,0 +1,13 @@
+img{
+    width: 20px;
+    height: 90px;
+    
+
+}
+body{
+    background-image: url(download.jpg);
+    
+}
+label{
+    color: firebrick;
+}
